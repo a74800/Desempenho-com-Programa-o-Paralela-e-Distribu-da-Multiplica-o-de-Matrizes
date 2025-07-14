@@ -1,0 +1,2 @@
+-bash: testes2.sh: line 82: unexpected EOF while looking for matching `"'
+-bash: testes2.sh: line 84: syntax error: unexpected end of file

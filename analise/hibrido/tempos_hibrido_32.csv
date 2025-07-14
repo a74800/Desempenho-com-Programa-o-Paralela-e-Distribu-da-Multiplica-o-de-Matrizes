@@ -1,0 +1,121 @@
+Execução,MPI_Config,np,OMP_Threads,Tempo_real,Tempo_user,Tempo_sys,Tempo_total,Tempo_Bcast_Scatterv,Tempo_Computacao,Tempo_Gatherv
+Uptime antes da execução:  15:33:12 up 8 days,  1:19,  8 users,  load average: 7.67, 8.18, 6.50
+1,"--host fct-deei-linux:2",2,2,0.471,0.092,0.047,0.296980,0.021745,0.000161,0.012314
+2,"--host fct-deei-linux:2",2,2,0.44,0.062,0.046,0.281514,0.000056,0.008795,0.012764
+3,"--host fct-deei-linux:2",2,2,0.453,0.072,0.039,0.281376,0.000051,0.011161,0.015223
+Uptime depois da execução:  15:33:15 up 8 days,  1:19,  8 users,  load average: 7.54, 8.14, 6.50
+Média,"--host fct-deei-linux:2",2,2,0.454667,0.075333,0.044000,0.286623,0.007284,0.006706,0.013434
+Uptime antes da execução:  15:33:15 up 8 days,  1:19,  8 users,  load average: 7.54, 8.14, 6.50
+1,"--host fct-deei-linux:2",2,4,0.468,0.064,0.058,0.287460,0.000050,0.025080,0.025103
+2,"--host fct-deei-linux:2",2,4,0.463,0.058,0.056,0.281046,0.000048,0.013404,0.013422
+3,"--host fct-deei-linux:2",2,4,0.484,0.066,0.047,0.301014,0.000051,0.015240,0.015340
+Uptime depois da execução:  15:33:18 up 8 days,  1:19,  8 users,  load average: 7.54, 8.14, 6.50
+Média,"--host fct-deei-linux:2",2,4,0.471667,0.062667,0.053667,0.289840,0.000050,0.017908,0.017955
+Uptime antes da execução:  15:33:18 up 8 days,  1:19,  8 users,  load average: 7.54, 8.14, 6.50
+1,"--host fct-deei-linux:2",2,6,0.475,0.061,0.051,0.281018,0.000044,0.015585,0.023585
+2,"--host fct-deei-linux:2",2,6,0.52,0.092,0.051,0.317230,0.015981,0.003959,0.019990
+3,"--host fct-deei-linux:2",2,6,0.535,0.103,0.044,0.325517,0.027808,0.000242,0.024243
+Uptime depois da execução:  15:33:21 up 8 days,  1:19,  8 users,  load average: 7.58, 8.14, 6.51
+Média,"--host fct-deei-linux:2",2,6,0.510000,0.085333,0.048667,0.307922,0.014611,0.006595,0.022606
+Uptime antes da execução:  15:33:22 up 8 days,  1:19,  8 users,  load average: 7.58, 8.14, 6.51
+1,"--host fct-deei-linux:2",2,8,0.463,0.079,0.033,0.289152,0.003406,0.019983,0.020013
+2,"--host fct-deei-linux:2",2,8,0.507,0.074,0.053,0.312839,0.007233,0.023962,0.023985
+3,"--host fct-deei-linux:2",2,8,0.54,0.089,0.039,0.305347,0.003171,0.023990,0.024012
+Uptime depois da execução:  15:33:24 up 8 days,  1:19,  8 users,  load average: 7.61, 8.14, 6.52
+Média,"--host fct-deei-linux:2",2,8,0.503333,0.080667,0.041667,0.302446,0.004603,0.022645,0.022670
+Uptime antes da execução:  15:33:25 up 8 days,  1:19,  8 users,  load average: 7.61, 8.14, 6.52
+1,"--host fct-deei-linux:3",3,2,0.565,0.139,0.063,0.364849,0.013879,0.020032,0.067975
+2,"--host fct-deei-linux:3",3,2,0.568,0.142,0.07,0.380867,0.018088,0.032045,0.064069
+3,"--host fct-deei-linux:3",3,2,0.488,0.091,0.074,0.314354,0.000054,0.021168,0.021220
+Uptime depois da execução:  15:33:27 up 8 days,  1:19,  8 users,  load average: 7.61, 8.14, 6.52
+Média,"--host fct-deei-linux:3",3,2,0.540333,0.124000,0.069000,0.353357,0.010674,0.024415,0.051088
+Uptime antes da execução:  15:33:28 up 8 days,  1:19,  8 users,  load average: 7.61, 8.14, 6.52
+1,"--host fct-deei-linux:3",3,4,0.537,0.172,0.058,0.372921,0.008731,0.026308,0.067953
+2,"--host fct-deei-linux:3",3,4,0.581,0.182,0.05,0.406384,0.015877,0.013502,0.081514
+3,"--host fct-deei-linux:3",3,4,0.599,0.17,0.06,0.401017,0.040202,0.012039,0.064070
+Uptime depois da execução:  15:33:31 up 8 days,  1:19,  8 users,  load average: 7.72, 8.15, 6.53
+Média,"--host fct-deei-linux:3",3,4,0.572333,0.174667,0.056000,0.393440,0.021603,0.017283,0.071179
+Uptime antes da execução:  15:33:32 up 8 days,  1:19,  8 users,  load average: 7.72, 8.15, 6.53
+1,"--host fct-deei-linux:3",3,6,0.544,0.106,0.075,0.341007,0.027646,0.008047,0.023996
+2,"--host fct-deei-linux:3",3,6,0.563,0.114,0.082,0.364904,0.017004,0.015877,0.067947
+3,"--host fct-deei-linux:3",3,6,0.615,0.147,0.066,0.396866,0.023884,0.011844,0.071995
+Uptime depois da execução:  15:33:34 up 8 days,  1:19,  8 users,  load average: 7.82, 8.16, 6.54
+Média,"--host fct-deei-linux:3",3,6,0.574000,0.122333,0.074333,0.367593,0.022845,0.011923,0.054646
+Uptime antes da execução:  15:33:35 up 8 days,  1:19,  8 users,  load average: 7.82, 8.16, 6.54
+1,"--host fct-deei-linux:3",3,8,0.56,0.118,0.068,0.364907,0.025804,0.016104,0.052026
+2,"--host fct-deei-linux:3",3,8,0.575,0.137,0.058,0.352788,0.011989,0.027997,0.043901
+3,"--host fct-deei-linux:3",3,8,0.611,0.129,0.068,0.396905,0.029160,0.015997,0.068049
+Uptime depois da execução:  15:33:38 up 8 days,  1:19,  8 users,  load average: 7.82, 8.16, 6.54
+Média,"--host fct-deei-linux:3",3,8,0.582000,0.128000,0.064667,0.371533,0.022318,0.020033,0.054659
+Uptime antes da execução:  15:33:39 up 8 days,  1:19,  8 users,  load average: 8.00, 8.20, 6.56
+1,"--host fct-deei-linux:4",4,2,0.585,0.176,0.066,0.380972,0.019851,0.019085,0.068038
+2,"--host fct-deei-linux:4",4,2,0.635,0.203,0.079,0.430461,0.031315,0.020947,0.072109
+3,"--host fct-deei-linux:4",4,2,0.622,0.185,0.091,0.394097,0.011857,0.003088,0.077325
+Uptime depois da execução:  15:33:42 up 8 days,  1:19,  8 users,  load average: 8.00, 8.20, 6.56
+Média,"--host fct-deei-linux:4",4,2,0.614000,0.188000,0.078667,0.401843,0.021008,0.014373,0.072491
+Uptime antes da execução:  15:33:42 up 8 days,  1:19,  8 users,  load average: 8.00, 8.20, 6.56
+1,"--host fct-deei-linux:4",4,4,0.657,0.206,0.117,0.448903,0.018758,0.012311,0.100319
+2,"--host fct-deei-linux:4",4,4,0.594,0.238,0.091,0.417981,0.015887,0.025406,0.089413
+3,"--host fct-deei-linux:4",4,4,0.641,0.291,0.063,0.461809,0.027830,0.030457,0.121084
+Uptime depois da execução:  15:33:45 up 8 days,  1:19,  8 users,  load average: 8.00, 8.19, 6.57
+Média,"--host fct-deei-linux:4",4,4,0.630667,0.245000,0.090333,0.442897,0.020825,0.022725,0.103605
+Uptime antes da execução:  15:33:46 up 8 days,  1:19,  8 users,  load average: 8.00, 8.19, 6.57
+1,"--host fct-deei-linux:4",4,6,0.639,0.219,0.075,0.432671,0.023817,0.027984,0.092046
+2,"--host fct-deei-linux:4",4,6,0.566,0.188,0.088,0.384772,0.006833,0.000317,0.075919
+3,"--host fct-deei-linux:4",4,6,0.586,0.176,0.07,0.396363,0.021522,0.019317,0.079522
+Uptime depois da execução:  15:33:49 up 8 days,  1:19,  8 users,  load average: 8.08, 8.21, 6.58
+Média,"--host fct-deei-linux:4",4,6,0.597000,0.194333,0.077667,0.404603,0.017391,0.015873,0.082496
+Uptime antes da execução:  15:33:50 up 8 days,  1:19,  8 users,  load average: 8.08, 8.21, 6.58
+1,"--host fct-deei-linux:4",4,8,0.622,0.213,0.072,0.424886,0.043865,0.015853,0.059998
+2,"--host fct-deei-linux:4",4,8,0.57,0.172,0.079,0.360802,0.006665,0.020036,0.056066
+3,"--host fct-deei-linux:4",4,8,0.626,0.198,0.081,0.440880,0.011833,0.019702,0.100091
+Uptime depois da execução:  15:33:52 up 8 days,  1:19,  8 users,  load average: 8.08, 8.21, 6.58
+Média,"--host fct-deei-linux:4",4,8,0.606000,0.194333,0.077333,0.408857,0.020788,0.018530,0.072052
+Uptime antes da execução:  15:33:56 up 8 days,  1:19,  8 users,  load average: 8.15, 8.22, 6.60
+1,"--host fct-deei-linux:4 --host fct-deei-aval:1",5,2,2.997,0.292,0.234,2.395317,0.031873,0.019023,0.063056
+2,"--host fct-deei-linux:4 --host fct-deei-aval:1",5,2,3.001,0.341,0.23,2.414556,0.045865,0.015042,0.064048
+3,"--host fct-deei-linux:4 --host fct-deei-aval:1",5,2,2.95,0.33,0.218,2.363020,0.023881,0.029472,0.045532
+Uptime depois da execução:  15:34:06 up 8 days,  1:20,  8 users,  load average: 8.20, 8.23, 6.62
+Média,"--host fct-deei-linux:4 --host fct-deei-aval:1",5,2,2.982667,0.321000,0.227333,2.390967,0.033873,0.021179,0.057545
+Uptime antes da execução:  15:34:09 up 8 days,  1:20,  8 users,  load average: 8.19, 8.22, 6.63
+1,"--host fct-deei-linux:4 --host fct-deei-aval:1",5,4,3.024,0.32,0.238,2.444102,0.035877,0.026132,0.104019
+2,"--host fct-deei-linux:4 --host fct-deei-aval:1",5,4,2.967,0.381,0.213,2.407329,0.034500,0.018295,0.071449
+3,"--host fct-deei-linux:4 --host fct-deei-aval:1",5,4,2.988,0.342,0.219,2.426524,0.035868,0.018471,0.084047
+Uptime depois da execução:  15:34:19 up 8 days,  1:20,  8 users,  load average: 8.16, 8.22, 6.64
+Média,"--host fct-deei-linux:4 --host fct-deei-aval:1",5,4,2.993000,0.347667,0.223333,2.425983,0.035415,0.020966,0.086505
+Uptime antes da execução:  15:34:22 up 8 days,  1:20,  8 users,  load average: 8.16, 8.22, 6.64
+1,"--host fct-deei-linux:4 --host fct-deei-aval:1",5,6,2.904,0.266,0.278,2.409344,0.032321,0.023244,0.083604
+2,"--host fct-deei-linux:4 --host fct-deei-aval:1",5,6,2.881,0.273,0.275,2.361942,0.033487,0.007175,0.035469
+3,"--host fct-deei-linux:4 --host fct-deei-aval:1",5,6,3.007,0.33,0.229,2.418192,0.054837,0.015524,0.043609
+Uptime depois da execução:  15:34:32 up 8 days,  1:20,  8 users,  load average: 8.31, 8.24, 6.67
+Média,"--host fct-deei-linux:4 --host fct-deei-aval:1",5,6,2.930667,0.289667,0.260667,2.396490,0.040215,0.015314,0.054227
+Uptime antes da execução:  15:34:35 up 8 days,  1:20,  8 users,  load average: 8.28, 8.24, 6.67
+1,"--host fct-deei-linux:4 --host fct-deei-aval:1",5,8,2.993,0.307,0.216,2.356711,0.015847,0.012695,0.036777
+2,"--host fct-deei-linux:4 --host fct-deei-aval:1",5,8,2.971,0.232,0.288,2.373658,0.034392,0.007554,0.037437
+3,"--host fct-deei-linux:4 --host fct-deei-aval:1",5,8,2.961,0.302,0.261,2.396362,0.043779,0.007964,0.052168
+Uptime depois da execução:  15:34:45 up 8 days,  1:20,  8 users,  load average: 8.61, 8.31, 6.72
+Média,"--host fct-deei-linux:4 --host fct-deei-aval:1",5,8,2.975000,0.280333,0.255000,2.375577,0.031339,0.009404,0.042127
+Uptime antes da execução:  15:34:48 up 8 days,  1:20,  8 users,  load average: 8.61, 8.31, 6.72
+1,"--host fct-deei-linux:4 --host fct-deei-aval:2",6,2,2.999,0.303,0.244,2.404001,0.023832,0.007038,0.073575
+2,"--host fct-deei-linux:4 --host fct-deei-aval:2",6,2,2.978,0.242,0.272,2.401358,0.027874,0.020551,0.069470
+3,"--host fct-deei-linux:4 --host fct-deei-aval:2",6,2,2.994,0.374,0.201,2.433254,0.020928,0.008344,0.081798
+Uptime depois da execução:  15:34:58 up 8 days,  1:20,  8 users,  load average: 8.51, 8.30, 6.73
+Média,"--host fct-deei-linux:4 --host fct-deei-aval:2",6,2,2.990333,0.306333,0.239000,2.412870,0.024211,0.011978,0.074948
+Uptime antes da execução:  15:35:01 up 8 days,  1:20,  8 users,  load average: 8.47, 8.30, 6.74
+1,"--host fct-deei-linux:4 --host fct-deei-aval:2",6,4,3.058,0.328,0.289,2.469254,0.039859,0.015909,0.125247
+2,"--host fct-deei-linux:4 --host fct-deei-aval:2",6,4,2.968,0.373,0.231,2.416848,0.027777,0.020084,0.096407
+3,"--host fct-deei-linux:4 --host fct-deei-aval:2",6,4,3.054,0.312,0.33,2.486051,0.055845,0.010155,0.129832
+Uptime depois da execução:  15:35:11 up 8 days,  1:21,  8 users,  load average: 8.40, 8.29, 6.75
+Média,"--host fct-deei-linux:4 --host fct-deei-aval:2",6,4,3.026667,0.337667,0.283333,2.457383,0.041160,0.015383,0.117162
+Uptime antes da execução:  15:35:14 up 8 days,  1:21,  8 users,  load average: 8.53, 8.31, 6.77
+1,"--host fct-deei-linux:4 --host fct-deei-aval:2",6,6,3.007,0.31,0.229,2.400054,0.030315,0.015561,0.052084
+2,"--host fct-deei-linux:4 --host fct-deei-aval:2",6,6,2.986,0.333,0.245,2.418523,0.036362,0.019043,0.079552
+3,"--host fct-deei-linux:4 --host fct-deei-aval:2",6,6,2.958,0.272,0.242,2.392029,0.035877,0.023985,0.060034
+Uptime depois da execução:  15:35:25 up 8 days,  1:21,  8 users,  load average: 8.44, 8.30, 6.78
+Média,"--host fct-deei-linux:4 --host fct-deei-aval:2",6,6,2.983667,0.305000,0.238667,2.403533,0.034185,0.019530,0.063890
+Uptime antes da execução:  15:35:28 up 8 days,  1:21,  8 users,  load average: 8.44, 8.30, 6.78
+1,"--host fct-deei-linux:4 --host fct-deei-aval:2",6,8,2.923,0.241,0.225,2.378443,0.020627,0.024478,0.035619
+2,"--host fct-deei-linux:4 --host fct-deei-aval:2",6,8,2.911,0.374,0.221,2.404671,0.031888,0.023419,0.080067
+3,"--host fct-deei-linux:4 --host fct-deei-aval:2",6,8,2.889,0.235,0.24,2.366019,0.016431,0.005834,0.041183
+Uptime depois da execução:  15:35:37 up 8 days,  1:21,  8 users,  load average: 8.53, 8.33, 6.81
+Média,"--host fct-deei-linux:4 --host fct-deei-aval:2",6,8,2.907667,0.283333,0.228667,2.383043,0.022982,0.017910,0.052290

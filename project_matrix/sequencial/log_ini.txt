@@ -1,0 +1,3 @@
+Matrizes copiadas para a pasta sequencial
+Testes executados em sequencial, log guardado em sequencial/log.txt
+Matrizes removidas

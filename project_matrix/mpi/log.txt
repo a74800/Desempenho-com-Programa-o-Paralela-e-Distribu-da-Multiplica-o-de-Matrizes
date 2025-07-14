@@ -1,0 +1,121 @@
+Executando com configuração: --host fct-deei-linux:2 e np=2
+Execução 1: Configuração=--host fct-deei-linux:2, np=2, real=0.392, user=0.09, sys=0.036, total=0.265584, bcast_scatterv=0.000016, computacao=0.000000, gatherv=0.000058
+Execução 2: Configuração=--host fct-deei-linux:2, np=2, real=0.352, user=0.054, sys=0.063, total=0.243001, bcast_scatterv=0.000015, computacao=0.000000, gatherv=0.000086
+Execução 3: Configuração=--host fct-deei-linux:2, np=2, real=0.391, user=0.057, sys=0.05, total=0.250980, bcast_scatterv=0.000017, computacao=0.000000, gatherv=0.000179
+Execução 4: Configuração=--host fct-deei-linux:2, np=2, real=0.4, user=0.034, sys=0.068, total=0.255894, bcast_scatterv=0.000016, computacao=0.000000, gatherv=0.000121
+Execução 5: Configuração=--host fct-deei-linux:2, np=2, real=0.36, user=0.067, sys=0.067, total=0.252756, bcast_scatterv=0.000019, computacao=0.000000, gatherv=0.000176
+Execução 6: Configuração=--host fct-deei-linux:2, np=2, real=0.416, user=0.033, sys=0.071, total=0.257098, bcast_scatterv=0.000016, computacao=0.000000, gatherv=0.000222
+Execução 7: Configuração=--host fct-deei-linux:2, np=2, real=0.386, user=0.02, sys=0.082, total=0.251247, bcast_scatterv=0.000015, computacao=0.000000, gatherv=0.000138
+Execução 8: Configuração=--host fct-deei-linux:2, np=2, real=0.38, user=0.059, sys=0.066, total=0.254612, bcast_scatterv=0.000017, computacao=0.000000, gatherv=0.000104
+Execução 9: Configuração=--host fct-deei-linux:2, np=2, real=0.392, user=0.059, sys=0.047, total=0.253546, bcast_scatterv=0.000017, computacao=0.000000, gatherv=0.000095
+Execução 10: Configuração=--host fct-deei-linux:2, np=2, real=0.399, user=0.037, sys=0.071, total=0.260343, bcast_scatterv=0.000017, computacao=0.000000, gatherv=0.000140
+Execução 11: Configuração=--host fct-deei-linux:2, np=2, real=0.411, user=0.057, sys=0.073, total=0.260546, bcast_scatterv=0.000015, computacao=0.000000, gatherv=0.000060
+Execução 12: Configuração=--host fct-deei-linux:2, np=2, real=0.338, user=0.052, sys=0.062, total=0.243053, bcast_scatterv=0.000017, computacao=0.000000, gatherv=0.000178
+Execução 13: Configuração=--host fct-deei-linux:2, np=2, real=0.392, user=0.062, sys=0.042, total=0.254182, bcast_scatterv=0.000019, computacao=0.000000, gatherv=0.000065
+Execução 14: Configuração=--host fct-deei-linux:2, np=2, real=0.419, user=0.051, sys=0.052, total=0.257878, bcast_scatterv=0.000016, computacao=0.000000, gatherv=0.000062
+Execução 15: Configuração=--host fct-deei-linux:2, np=2, real=0.355, user=0.076, sys=0.056, total=0.250505, bcast_scatterv=0.000019, computacao=0.000000, gatherv=0.000155
+Execução 16: Configuração=--host fct-deei-linux:2, np=2, real=0.415, user=0.049, sys=0.058, total=0.256483, bcast_scatterv=0.000017, computacao=0.000000, gatherv=0.000178
+Execução 17: Configuração=--host fct-deei-linux:2, np=2, real=0.392, user=0.048, sys=0.056, total=0.254166, bcast_scatterv=0.000017, computacao=0.000000, gatherv=0.000105
+Execução 18: Configuração=--host fct-deei-linux:2, np=2, real=0.397, user=0.048, sys=0.089, total=0.251886, bcast_scatterv=0.000020, computacao=0.000001, gatherv=0.000303
+Execução 19: Configuração=--host fct-deei-linux:2, np=2, real=0.36, user=0.069, sys=0.035, total=0.244359, bcast_scatterv=0.000016, computacao=0.000000, gatherv=0.000061
+Execução 20: Configuração=--host fct-deei-linux:2, np=2, real=0.395, user=0.036, sys=0.065, total=0.250681, bcast_scatterv=0.000017, computacao=0.000000, gatherv=0.000061
+Execução 21: Configuração=--host fct-deei-linux:2, np=2, real=0.387, user=0.062, sys=0.053, total=0.251237, bcast_scatterv=0.000018, computacao=0.000000, gatherv=0.000046
+Execução 22: Configuração=--host fct-deei-linux:2, np=2, real=0.35, user=0.069, sys=0.053, total=0.247937, bcast_scatterv=0.000015, computacao=0.000000, gatherv=0.000141
+Execução 23: Configuração=--host fct-deei-linux:2, np=2, real=0.411, user=0.046, sys=0.058, total=0.258931, bcast_scatterv=0.000016, computacao=0.000000, gatherv=0.000047
+Execução 24: Configuração=--host fct-deei-linux:2, np=2, real=0.391, user=0.037, sys=0.066, total=0.250015, bcast_scatterv=0.000015, computacao=0.000000, gatherv=0.000081
+Execução 25: Configuração=--host fct-deei-linux:2, np=2, real=0.358, user=0.067, sys=0.061, total=0.247462, bcast_scatterv=0.000016, computacao=0.000000, gatherv=0.000102
+Execução 26: Configuração=--host fct-deei-linux:2, np=2, real=0.407, user=0.062, sys=0.044, total=0.258307, bcast_scatterv=0.000021, computacao=0.000000, gatherv=0.000098
+Execução 27: Configuração=--host fct-deei-linux:2, np=2, real=0.412, user=0.039, sys=0.064, total=0.260508, bcast_scatterv=0.000016, computacao=0.000000, gatherv=0.000170
+Execução 28: Configuração=--host fct-deei-linux:2, np=2, real=0.41, user=0.057, sys=0.069, total=0.262111, bcast_scatterv=0.000016, computacao=0.000000, gatherv=0.000155
+Execução 29: Configuração=--host fct-deei-linux:2, np=2, real=0.343, user=0.075, sys=0.058, total=0.242091, bcast_scatterv=0.000020, computacao=0.000000, gatherv=0.000084
+Execução 30: Configuração=--host fct-deei-linux:2, np=2, real=0.388, user=0.058, sys=0.053, total=0.253323, bcast_scatterv=0.000018, computacao=0.000000, gatherv=0.000153
+Executando com configuração: --host fct-deei-linux:3 e np=3
+Execução 1: Configuração=--host fct-deei-linux:3, np=3, real=0.429, user=0.076, sys=0.072, total=0.281381, bcast_scatterv=0.000022, computacao=0.000000, gatherv=0.007824
+Execução 2: Configuração=--host fct-deei-linux:3, np=3, real=0.37, user=0.081, sys=0.106, total=0.258968, bcast_scatterv=0.000024, computacao=0.000001, gatherv=0.000215
+Execução 3: Configuração=--host fct-deei-linux:3, np=3, real=0.378, user=0.052, sys=0.087, total=0.270454, bcast_scatterv=0.000022, computacao=0.000000, gatherv=0.000176
+Execução 4: Configuração=--host fct-deei-linux:3, np=3, real=0.421, user=0.081, sys=0.061, total=0.269566, bcast_scatterv=0.000023, computacao=0.000000, gatherv=0.000122
+Execução 5: Configuração=--host fct-deei-linux:3, np=3, real=0.419, user=0.106, sys=0.071, total=0.272745, bcast_scatterv=0.000048, computacao=0.000001, gatherv=0.001526
+Execução 6: Configuração=--host fct-deei-linux:3, np=3, real=0.396, user=0.086, sys=0.055, total=0.265377, bcast_scatterv=0.000020, computacao=0.000000, gatherv=0.005941
+Execução 7: Configuração=--host fct-deei-linux:3, np=3, real=0.415, user=0.073, sys=0.063, total=0.267266, bcast_scatterv=0.000019, computacao=0.000000, gatherv=0.006195
+Execução 8: Configuração=--host fct-deei-linux:3, np=3, real=0.409, user=0.079, sys=0.064, total=0.290261, bcast_scatterv=0.000019, computacao=0.000000, gatherv=0.007479
+Execução 9: Configuração=--host fct-deei-linux:3, np=3, real=0.368, user=0.082, sys=0.063, total=0.256637, bcast_scatterv=0.000259, computacao=0.000001, gatherv=0.000703
+Execução 10: Configuração=--host fct-deei-linux:3, np=3, real=0.363, user=0.094, sys=0.057, total=0.271994, bcast_scatterv=0.000020, computacao=0.000001, gatherv=0.015818
+Execução 11: Configuração=--host fct-deei-linux:3, np=3, real=0.411, user=0.077, sys=0.068, total=0.272983, bcast_scatterv=0.000022, computacao=0.000000, gatherv=0.008119
+Execução 12: Configuração=--host fct-deei-linux:3, np=3, real=0.398, user=0.068, sys=0.077, total=0.272825, bcast_scatterv=0.000018, computacao=0.000000, gatherv=0.008169
+Execução 13: Configuração=--host fct-deei-linux:3, np=3, real=0.373, user=0.091, sys=0.073, total=0.262543, bcast_scatterv=0.000020, computacao=0.000000, gatherv=0.000157
+Execução 14: Configuração=--host fct-deei-linux:3, np=3, real=0.423, user=0.077, sys=0.056, total=0.269807, bcast_scatterv=0.000019, computacao=0.000000, gatherv=0.000251
+Execução 15: Configuração=--host fct-deei-linux:3, np=3, real=0.422, user=0.082, sys=0.046, total=0.265929, bcast_scatterv=0.000021, computacao=0.000000, gatherv=0.001068
+Execução 16: Configuração=--host fct-deei-linux:3, np=3, real=0.367, user=0.1, sys=0.077, total=0.265092, bcast_scatterv=0.000027, computacao=0.000000, gatherv=0.007978
+Execução 17: Configuração=--host fct-deei-linux:3, np=3, real=0.415, user=0.046, sys=0.091, total=0.273685, bcast_scatterv=0.000023, computacao=0.000000, gatherv=0.000126
+Execução 18: Configuração=--host fct-deei-linux:3, np=3, real=0.394, user=0.07, sys=0.089, total=0.269258, bcast_scatterv=0.000022, computacao=0.000000, gatherv=0.008441
+Execução 19: Configuração=--host fct-deei-linux:3, np=3, real=0.428, user=0.092, sys=0.06, total=0.270779, bcast_scatterv=0.000026, computacao=0.000000, gatherv=0.006238
+Execução 20: Configuração=--host fct-deei-linux:3, np=3, real=0.381, user=0.083, sys=0.087, total=0.258440, bcast_scatterv=0.000022, computacao=0.000000, gatherv=0.000505
+Execução 21: Configuração=--host fct-deei-linux:3, np=3, real=0.441, user=0.056, sys=0.086, total=0.273674, bcast_scatterv=0.000022, computacao=0.000000, gatherv=0.005305
+Execução 22: Configuração=--host fct-deei-linux:3, np=3, real=0.451, user=0.055, sys=0.095, total=0.282235, bcast_scatterv=0.000020, computacao=0.000000, gatherv=0.012998
+Execução 23: Configuração=--host fct-deei-linux:3, np=3, real=0.379, user=0.111, sys=0.063, total=0.259365, bcast_scatterv=0.000019, computacao=0.000000, gatherv=0.000279
+Execução 24: Configuração=--host fct-deei-linux:3, np=3, real=0.402, user=0.08, sys=0.073, total=0.274765, bcast_scatterv=0.000028, computacao=0.000000, gatherv=0.005570
+Execução 25: Configuração=--host fct-deei-linux:3, np=3, real=0.426, user=0.068, sys=0.064, total=0.279467, bcast_scatterv=0.000019, computacao=0.000000, gatherv=0.000299
+Execução 26: Configuração=--host fct-deei-linux:3, np=3, real=0.403, user=0.087, sys=0.059, total=0.259603, bcast_scatterv=0.000023, computacao=0.000000, gatherv=0.000192
+Execução 27: Configuração=--host fct-deei-linux:3, np=3, real=0.357, user=0.069, sys=0.094, total=0.259185, bcast_scatterv=0.000074, computacao=0.000001, gatherv=0.001011
+Execução 28: Configuração=--host fct-deei-linux:3, np=3, real=0.443, user=0.06, sys=0.091, total=0.269223, bcast_scatterv=0.000019, computacao=0.000000, gatherv=0.004073
+Execução 29: Configuração=--host fct-deei-linux:3, np=3, real=0.42, user=0.079, sys=0.064, total=0.273754, bcast_scatterv=0.000021, computacao=0.000000, gatherv=0.004097
+Execução 30: Configuração=--host fct-deei-linux:3, np=3, real=0.43, user=0.091, sys=0.073, total=0.281506, bcast_scatterv=0.000018, computacao=0.000000, gatherv=0.008078
+Executando com configuração: --host fct-deei-linux:4 e np=4
+Execução 1: Configuração=--host fct-deei-linux:4, np=4, real=0.371, user=0.096, sys=0.077, total=0.275404, bcast_scatterv=0.000023, computacao=0.000000, gatherv=0.006130
+Execução 2: Configuração=--host fct-deei-linux:4, np=4, real=0.416, user=0.072, sys=0.088, total=0.266767, bcast_scatterv=0.000018, computacao=0.000000, gatherv=0.001106
+Execução 3: Configuração=--host fct-deei-linux:4, np=4, real=0.415, user=0.087, sys=0.074, total=0.264855, bcast_scatterv=0.000020, computacao=0.000000, gatherv=0.000409
+Execução 4: Configuração=--host fct-deei-linux:4, np=4, real=0.389, user=0.102, sys=0.103, total=0.277514, bcast_scatterv=0.000032, computacao=0.000001, gatherv=0.002422
+Execução 5: Configuração=--host fct-deei-linux:4, np=4, real=0.43, user=0.096, sys=0.077, total=0.286105, bcast_scatterv=0.000020, computacao=0.000000, gatherv=0.007528
+Execução 6: Configuração=--host fct-deei-linux:4, np=4, real=0.4, user=0.095, sys=0.074, total=0.269618, bcast_scatterv=0.000021, computacao=0.000000, gatherv=0.000291
+Execução 7: Configuração=--host fct-deei-linux:4, np=4, real=0.432, user=0.072, sys=0.105, total=0.285829, bcast_scatterv=0.000019, computacao=0.000000, gatherv=0.006351
+Execução 8: Configuração=--host fct-deei-linux:4, np=4, real=0.412, user=0.086, sys=0.112, total=0.295436, bcast_scatterv=0.000021, computacao=0.000000, gatherv=0.021514
+Execução 9: Configuração=--host fct-deei-linux:4, np=4, real=0.459, user=0.1, sys=0.077, total=0.301617, bcast_scatterv=0.000020, computacao=0.000000, gatherv=0.008227
+Execução 10: Configuração=--host fct-deei-linux:4, np=4, real=0.441, user=0.104, sys=0.071, total=0.290787, bcast_scatterv=0.000018, computacao=0.000000, gatherv=0.006015
+Execução 11: Configuração=--host fct-deei-linux:4, np=4, real=0.394, user=0.091, sys=0.111, total=0.275432, bcast_scatterv=0.000019, computacao=0.000000, gatherv=0.004193
+Execução 12: Configuração=--host fct-deei-linux:4, np=4, real=0.464, user=0.06, sys=0.112, total=0.282142, bcast_scatterv=0.000034, computacao=0.000000, gatherv=0.004785
+Execução 13: Configuração=--host fct-deei-linux:4, np=4, real=0.451, user=0.13, sys=0.065, total=0.291242, bcast_scatterv=0.000020, computacao=0.000000, gatherv=0.009931
+Execução 14: Configuração=--host fct-deei-linux:4, np=4, real=0.393, user=0.133, sys=0.095, total=0.285190, bcast_scatterv=0.000024, computacao=0.000000, gatherv=0.015981
+Execução 15: Configuração=--host fct-deei-linux:4, np=4, real=0.426, user=0.084, sys=0.088, total=0.273657, bcast_scatterv=0.000021, computacao=0.000000, gatherv=0.006597
+Execução 16: Configuração=--host fct-deei-linux:4, np=4, real=0.436, user=0.099, sys=0.075, total=0.290780, bcast_scatterv=0.000019, computacao=0.000000, gatherv=0.005402
+Execução 17: Configuração=--host fct-deei-linux:4, np=4, real=0.375, user=0.09, sys=0.128, total=0.269270, bcast_scatterv=0.000022, computacao=0.000000, gatherv=0.002369
+Execução 18: Configuração=--host fct-deei-linux:4, np=4, real=0.411, user=0.103, sys=0.07, total=0.285015, bcast_scatterv=0.000022, computacao=0.000000, gatherv=0.005975
+Execução 19: Configuração=--host fct-deei-linux:4, np=4, real=0.403, user=0.11, sys=0.055, total=0.266203, bcast_scatterv=0.000020, computacao=0.000000, gatherv=0.000683
+Execução 20: Configuração=--host fct-deei-linux:4, np=4, real=0.405, user=0.125, sys=0.104, total=0.276557, bcast_scatterv=0.000020, computacao=0.000000, gatherv=0.004355
+Execução 21: Configuração=--host fct-deei-linux:4, np=4, real=0.366, user=0.066, sys=0.11, total=0.275596, bcast_scatterv=0.000018, computacao=0.000000, gatherv=0.006336
+Execução 22: Configuração=--host fct-deei-linux:4, np=4, real=0.441, user=0.089, sys=0.097, total=0.302337, bcast_scatterv=0.000019, computacao=0.000000, gatherv=0.008179
+Execução 23: Configuração=--host fct-deei-linux:4, np=4, real=0.445, user=0.096, sys=0.106, total=0.306225, bcast_scatterv=0.000021, computacao=0.000000, gatherv=0.008389
+Execução 24: Configuração=--host fct-deei-linux:4, np=4, real=0.376, user=0.119, sys=0.104, total=0.265386, bcast_scatterv=0.000027, computacao=0.000000, gatherv=0.003999
+Execução 25: Configuração=--host fct-deei-linux:4, np=4, real=0.423, user=0.096, sys=0.075, total=0.273175, bcast_scatterv=0.000021, computacao=0.000000, gatherv=0.000647
+Execução 26: Configuração=--host fct-deei-linux:4, np=4, real=0.445, user=0.082, sys=0.104, total=0.304340, bcast_scatterv=0.000020, computacao=0.000000, gatherv=0.006099
+Execução 27: Configuração=--host fct-deei-linux:4, np=4, real=0.413, user=0.084, sys=0.125, total=0.286541, bcast_scatterv=0.000036, computacao=0.000000, gatherv=0.000516
+Execução 28: Configuração=--host fct-deei-linux:4, np=4, real=0.397, user=0.092, sys=0.087, total=0.280620, bcast_scatterv=0.000018, computacao=0.000000, gatherv=0.005620
+Execução 29: Configuração=--host fct-deei-linux:4, np=4, real=0.436, user=0.081, sys=0.09, total=0.287334, bcast_scatterv=0.000022, computacao=0.000001, gatherv=0.006100
+Execução 30: Configuração=--host fct-deei-linux:4, np=4, real=0.44, user=0.098, sys=0.085, total=0.285307, bcast_scatterv=0.000020, computacao=0.000000, gatherv=0.000296
+Executando com configuração: --host fct-deei-linux:4 --host fct-deei-aval:1 e np=5
+Execução 1: Configuração=--host fct-deei-linux:4 --host fct-deei-aval:1, np=5, real=2.799, user=0.279, sys=0.246, total=2.295568, bcast_scatterv=0.015376, computacao=0.000000, gatherv=0.000250
+Execução 2: Configuração=--host fct-deei-linux:4 --host fct-deei-aval:1, np=5, real=2.826, user=0.279, sys=0.259, total=2.312092, bcast_scatterv=0.022100, computacao=0.000000, gatherv=0.000590
+Execução 3: Configuração=--host fct-deei-linux:4 --host fct-deei-aval:1, np=5, real=2.804, user=0.27, sys=0.278, total=2.324315, bcast_scatterv=0.033005, computacao=0.000000, gatherv=0.000342
+Execução 4: Configuração=--host fct-deei-linux:4 --host fct-deei-aval:1, np=5, real=2.809, user=0.227, sys=0.247, total=2.311735, bcast_scatterv=0.031035, computacao=0.000000, gatherv=0.000649
+Execução 5: Configuração=--host fct-deei-linux:4 --host fct-deei-aval:1, np=5, real=2.782, user=0.238, sys=0.257, total=2.317287, bcast_scatterv=0.022383, computacao=0.000000, gatherv=0.000930
+Execução 6: Configuração=--host fct-deei-linux:4 --host fct-deei-aval:1, np=5, real=2.834, user=0.275, sys=0.218, total=2.304283, bcast_scatterv=0.022581, computacao=0.000000, gatherv=0.000401
+Execução 7: Configuração=--host fct-deei-linux:4 --host fct-deei-aval:1, np=5, real=2.804, user=0.278, sys=0.238, total=2.336326, bcast_scatterv=0.027881, computacao=0.000000, gatherv=0.016155
+Execução 8: Configuração=--host fct-deei-linux:4 --host fct-deei-aval:1, np=5, real=2.886, user=0.311, sys=0.231, total=2.336343, bcast_scatterv=0.022854, computacao=0.000000, gatherv=0.000309
+Execução 9: Configuração=--host fct-deei-linux:4 --host fct-deei-aval:1, np=5, real=2.864, user=0.339, sys=0.219, total=2.360246, bcast_scatterv=0.061040, computacao=0.000000, gatherv=0.016073
+Execução 10: Configuração=--host fct-deei-linux:4 --host fct-deei-aval:1, np=5, real=2.867, user=0.416, sys=0.154, total=2.350549, bcast_scatterv=0.056532, computacao=0.000000, gatherv=0.012060
+Execução 11: Configuração=--host fct-deei-linux:4 --host fct-deei-aval:1, np=5, real=2.813, user=0.317, sys=0.225, total=2.347455, bcast_scatterv=0.051932, computacao=0.000000, gatherv=0.008201
+Execução 12: Configuração=--host fct-deei-linux:4 --host fct-deei-aval:1, np=5, real=2.859, user=0.276, sys=0.298, total=2.317168, bcast_scatterv=0.022214, computacao=0.000000, gatherv=0.005834
+Execução 13: Configuração=--host fct-deei-linux:4 --host fct-deei-aval:1, np=5, real=2.768, user=0.302, sys=0.251, total=2.315814, bcast_scatterv=0.018478, computacao=0.000000, gatherv=0.013321
+Execução 14: Configuração=--host fct-deei-linux:4 --host fct-deei-aval:1, np=5, real=2.857, user=0.335, sys=0.188, total=2.311665, bcast_scatterv=0.027963, computacao=0.000000, gatherv=0.000326
+Execução 15: Configuração=--host fct-deei-linux:4 --host fct-deei-aval:1, np=5, real=2.829, user=0.274, sys=0.224, total=2.339274, bcast_scatterv=0.038508, computacao=0.000000, gatherv=0.016064
+Execução 16: Configuração=--host fct-deei-linux:4 --host fct-deei-aval:1, np=5, real=2.827, user=0.35, sys=0.174, total=2.318633, bcast_scatterv=0.022228, computacao=0.000000, gatherv=0.000631
+Execução 17: Configuração=--host fct-deei-linux:4 --host fct-deei-aval:1, np=5, real=2.822, user=0.333, sys=0.239, total=2.353050, bcast_scatterv=0.057014, computacao=0.000000, gatherv=0.006393
+Execução 18: Configuração=--host fct-deei-linux:4 --host fct-deei-aval:1, np=5, real=2.842, user=0.296, sys=0.258, total=2.315252, bcast_scatterv=0.031248, computacao=0.000000, gatherv=0.000381
+Execução 19: Configuração=--host fct-deei-linux:4 --host fct-deei-aval:1, np=5, real=2.797, user=0.268, sys=0.276, total=2.319517, bcast_scatterv=0.026188, computacao=0.000000, gatherv=0.005854
+Execução 20: Configuração=--host fct-deei-linux:4 --host fct-deei-aval:1, np=5, real=2.886, user=0.405, sys=0.312, total=2.319954, bcast_scatterv=0.031413, computacao=0.000000, gatherv=0.000747
+Execução 21: Configuração=--host fct-deei-linux:4 --host fct-deei-aval:1, np=5, real=2.765, user=0.499, sys=0.4, total=2.292322, bcast_scatterv=0.026343, computacao=0.000000, gatherv=0.000304
+Execução 22: Configuração=--host fct-deei-linux:4 --host fct-deei-aval:1, np=5, real=2.799, user=0.502, sys=0.372, total=2.318295, bcast_scatterv=0.032902, computacao=0.000000, gatherv=0.000345
+Execução 23: Configuração=--host fct-deei-linux:4 --host fct-deei-aval:1, np=5, real=2.801, user=0.425, sys=0.472, total=2.301336, bcast_scatterv=0.026859, computacao=0.000000, gatherv=0.000229
+Execução 24: Configuração=--host fct-deei-linux:4 --host fct-deei-aval:1, np=5, real=2.751, user=0.421, sys=0.443, total=2.281767, bcast_scatterv=0.014835, computacao=0.000001, gatherv=0.000210
+Execução 25: Configuração=--host fct-deei-linux:4 --host fct-deei-aval:1, np=5, real=2.795, user=0.491, sys=0.379, total=2.296628, bcast_scatterv=0.016305, computacao=0.000000, gatherv=0.000288
+Execução 26: Configuração=--host fct-deei-linux:4 --host fct-deei-aval:1, np=5, real=2.814, user=0.336, sys=0.313, total=2.309371, bcast_scatterv=0.026452, computacao=0.000000, gatherv=0.001083
+Execução 27: Configuração=--host fct-deei-linux:4 --host fct-deei-aval:1, np=5, real=2.792, user=0.407, sys=0.392, total=2.297382, bcast_scatterv=0.014363, computacao=0.000000, gatherv=0.000240

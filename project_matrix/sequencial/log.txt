@@ -1,0 +1,2 @@
+Testes concluídos! Resultados guardados nos ficheiros tempos_*.csv
+Última média do tempo de execução: real=36.0703, user=34.7293, sys=0.0782

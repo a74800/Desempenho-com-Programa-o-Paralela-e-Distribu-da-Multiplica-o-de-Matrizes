@@ -1,0 +1,4 @@
+Tempo total: 0.258899 segundos
+Tempo de comunicação (Bcast + Scatterv): 0.000028 segundos
+Tempo de computação (Multiplicação): 0.000168 segundos
+Tempo de comunicação (Gatherv): 0.000187 segundos

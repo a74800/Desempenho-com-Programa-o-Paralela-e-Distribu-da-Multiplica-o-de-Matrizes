@@ -1,0 +1,3 @@
+Matrizes copiadas para a pasta mpi
+Testes executados em mpi, log guardado em mpi/log.txt
+Matrizes removidas
