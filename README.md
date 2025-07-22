@@ -13,7 +13,7 @@ Evaluate the performance of different approaches to square matrix multiplication
 
     Hybrid implementation with MPI + OpenMP
 
-⚙ Technologies and Tools
+ Technologies and Tools
 
     C programming language
 
