@@ -1,56 +1,45 @@
-Performance Study — Matrix Multiplication with Parallel and Distributed Programming
+# Matrix Multiplication Performance Study — Parallel and Distributed Programming
 
-This repository contains the source code, test scripts, and final report for a case study developed as part of the Parallel and Distributed Systems course in the Computer Engineering degree at the University of Algarve.
- Objective
+This repository contains source code, test scripts, performance analysis, and a final report developed for the **Parallel and Distributed Systems** course at the **University of Algarve**.
 
-Evaluate the performance of different approaches to square matrix multiplication by comparing:
+## Objective
 
-    Sequential implementation (C)
+The goal of this project is to **evaluate and compare the performance** of square matrix multiplication using different programming models:
+- Sequential Implementation (C)
+- Parallel Implementation with OpenMP
+- Distributed Implementation with MPI
+- Hybrid Implementation combining MPI + OpenMP
 
-    Parallel implementation with OpenMP
+## Technologies & Tools
 
-    Distributed implementation with MPI
+| Tool            | Purpose                               |
+|-----------------|----------------------------------------|
+| C Language      | Core matrix multiplication code       |
+| GCC             | Compilation with OpenMP and MPI       |
+| OpenMP          | Parallelization on shared memory      |
+| MPI (Open MPI)  | Distributed memory parallelization    |
+| Python          | Data analysis and graph generation    |
+| SLURM           | HPC job scheduling (Cirrus cluster)   |
+| Bash            | Automation of test runs               |
 
-    Hybrid implementation with MPI + OpenMP
 
- Technologies and Tools
+## Evaluation Metrics
 
-    C programming language
+- Execution Time
+- Speedup
+- Efficiency
+- Communication Time (MPI/Hybrid)
+- Scalability — Strong and Weak Scaling
 
-    GCC compiler with OpenMP and MPI support
+## Final Report
 
-    MPI (Open MPI)
+For full methodology, results, and conclusions, see the final report:
 
-    OpenMP
+[`relatorio_SPD_caso_de_estudo_Matrizes.pdf`](relatorio_SPD_caso_de_estudo_Matrizes.pdf)
 
-    SLURM (for HPC job scheduling — Cirrus)
+## Key Findings
 
-    Python (for data analysis and graph generation)
-
-    Bash (for automated test execution)
-
- Evaluation Metrics
-
-    Execution time
-
-    Speedup
-
-    Efficiency
-
-    Communication time (MPI and hybrid versions)
-
-    Scalability (strong and weak scaling)
-
- Report
-
-The full technical report, including results, graphs, test environments, and conclusions, is available at relatorio_SPD_caso_de_estudo_Matrizes.pdf.
-
- Key Findings
-
-    OpenMP was effective for medium and large workloads, achieving speedups up to 3.6×.
-
-    MPI provided modest gains, highly dependent on workload size per process.
-
-    The hybrid version showed promising results but required fine-tuning.
-
-    Scalability was limited on local machines, but better performance is expected on HPC platforms.
+- OpenMP achieved up to 3.6× speedup on larger workloads.
+- MPI showed modest speedup, limited by communication overhead.
+- Hybrid (MPI + OpenMP) provided promising results but required careful tuning.
+- Scalability improved on HPC environments compared to local machines.
